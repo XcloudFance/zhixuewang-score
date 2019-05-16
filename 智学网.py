@@ -25,4 +25,4 @@ for grade in grades:
        print('科目:',grade.subjectName,'班级最高分:',grade.classRank.highScore,'年段最高分',grade.gradeRank.highScore)
        print('成绩:',grade.score)
        print('班级排名:',grade.classRank.rank)
-       print('当前综合分为:',score)
+print('当前综合分为:',score)
